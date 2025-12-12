@@ -196,7 +196,7 @@
             //               | GUI | ALT  | CTRL | LOWER|  ENTER |  | SPACE | RAISE| CTRL  | ALT   | GUI  |
 
             bindings = <
-&kp ESC    &kp N1    &kp N2  &kp N3  &kp EQUAL  &kp ASTERISK                  &kp F13    &kp F14    &kp F15    &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp UNDERSCORE
+&kp ESC    &kp N1    &kp N2  &kp N3  &kp ASTRK  &kp ASTERISK                  &kp F13    &kp F14    &kp F15    &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp UNDERSCORE
 &kp TAB    &kp N4    &kp N5  &kp N6  &kp COLON  &kp PLUS                      &kp EQUAL  &kp EQUAL  &kp F21    &kp F22               &kp F23                &kp BACKSPACE
 &kp LSHFT  &kp N7    &kp N8  &kp N9  &kp PLUS   &kp EQUAL     &trans  &trans  &trans     &trans     &kp COMMA  &kp DOT               &kp UP_ARROW           &kp FSLH
 &kp LGUI   &kp LALT  &kp N0  &trans  &trans     &trans                        &trans     &trans     &trans     &kp LEFT_ARROW        &kp DOWN_ARROW         &kp RIGHT_ARROW
